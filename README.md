@@ -1,1 +1,1 @@
-# Machine-Learning-Trained-Drowsiness-Detection-on-a-Microcontroller
+# Machine Learning Trained Drowsiness Detection on a Microcontroller
